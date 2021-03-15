@@ -34,9 +34,9 @@
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     margin-top: 250px;
-    width : 50%;
-    height : 50%;
-    margin-left : 25%
+    width : 70%;
+    height : 70%;
+    margin-left : 15%
   }
   
   /* On mouse-over, add a deeper shadow */
